@@ -1,8 +1,6 @@
 const mailInstances = [];
 
 const random = (length = 8) => {
-    // Source of this random function : https://attacomsian.com/blog/javascript-generate-random-string
-
     // Declare all characters
     let chars =
         'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
