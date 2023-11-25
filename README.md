@@ -2,12 +2,6 @@
 
 Le projet consiste à détecter les ouvertures de mails sans avoir recours à une base de données. Pour le bon fonctionnement de l'application, le serveur doit être hébergé sur internet (ou sur le même réseau que la personne ouvrant le mail).
 
-# Proof of concept
-
-[https://mail-spy.herokuapp.com/](https://mail-spy.herokuapp.com/)
-
-L'hébergement du projet est gratuit, cela peut entraîner des ralentissement, voir même le malfonctionnement (si la durée de connexion est trop longue). Il se peut aussi que le site ne soit plus atteignable car trop utilisé. Il vaut mieux essayer d'atteindre le site web en début de mois car les heures d'utilisation mensuelles sont limitées par les conditions d'utilisations d'heroku.
-
 # Installation
 
 `npm install`
