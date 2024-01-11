@@ -99,5 +99,6 @@ socket.emit('join', { ownerID: userID }, (error) => {
     if (error) {
         alert(error);
         location.href = '/';
+        // Test
     }
 });
